@@ -14,11 +14,11 @@ int main() {
 
     // Сложение
     int sum = num1 + num2;
-    std::cout << "Сумма " << num1 << " и " << num2 << " ровна: " << sum << std::endl;
+    std::cout << "Сумма " << num1 << " и " << num2 << " ровна: " << sum << '\n';
 
     // Вычитание
     int difference = num1 - num2;
-    std::cout << "Разница " << num1 << " и " << num2 << " ровна: " << difference << std::endl;
+    std::cout << "Разница " << num1 << " и " << num2 << " ровна: " << difference << '\n';
 
     return 0;
 }
